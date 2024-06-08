@@ -4,9 +4,9 @@ Explore my portfolio of AI and software engineering projects, showcasing my skil
 
 ## Projects
 
-- [VAPT and Pen Testing Documentation](projects/project1.md)
-- [Factoid Dataset for Hallucination Detection](projects/project2.md)
-- [AI-Powered Chatbot](projects/project3.md)
+- [VAPT and Pen Testing Documentation](Projects/project1.md)
+- [Factoid Dataset for Hallucination Detection](Projects/project2.md)
+- [AI-Powered Chatbot](Projects/project3.md)
 
 ...
 
