@@ -4,26 +4,20 @@ Welcome to my portfolio! Here, you'll find detailed documentation on various AI 
 
 ## Projects
 
-### [VAPT and Pen Testing Documentation](projects/vapt_pen_testing.md)
+### [VAPT and Pen Testing Documentation](projects/project1.md)
 An extensive documentation of my VAPT (Vulnerability Assessment and Penetration Testing) and Pen Testing projects. This includes methodologies, tools used, and detailed findings.
 
-### [Factoid Dataset for Hallucination Detection](projects/factoid_hallucination.md)
+### [Factoid Dataset for Hallucination Detection](projects/project1.md)
 A project focused on creating a dataset for detecting hallucinations in large language models. This includes dataset composition, collection methods, and applications in factual verification.
 
-### [AI-Powered Chatbot](projects/ai_chatbot.md)
+### [AI-Powered Chatbot](projects/project1.md)
 This project involves developing an AI-powered chatbot using NLP and machine learning. It covers intent recognition, contextual responses, and multi-language support.
 
-### [Stock Market Prediction Using LSTM](projects/stock_market_prediction.md)
+### [Stock Market Prediction Using LSTM](projects/project1.md)
 A predictive model using Long Short-Term Memory (LSTM) networks to forecast stock prices. This project highlights data preprocessing, model training, and evaluation metrics.
 
-### [Phishing Website Detection and Alert System](projects/phishing_detection.md)
+### [Phishing Website Detection and Alert System](projects/project1.md)
 An AI-assisted system designed to detect phishing websites. It includes details on feature extraction, machine learning models, and real-time alert mechanisms.
-
-### [Data Imputation Techniques](projects/data_imputation.md)
-Exploration of various data imputation techniques to handle missing data in datasets. This project discusses different algorithms, their implementations, and comparative analysis.
-
-### [Rock vs. Mine Prediction for Submarines](projects/rock_mine_prediction.md)
-A classification project aimed at distinguishing between rocks and mines using sonar signals. It details the data processing steps, feature selection, and model performance.
 
 ...
 
